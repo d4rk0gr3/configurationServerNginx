@@ -1,3 +1,2 @@
-www/php/*
-www/html/*
-www/nodejs/*
+www/*
+logs/*
